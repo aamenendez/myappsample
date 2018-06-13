@@ -1,2 +1,2 @@
 #MyApp
-This is my app (sample and learning git)
+This is my app
